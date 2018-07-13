@@ -12,6 +12,8 @@ This will look different, depending on where the file is saved. For example, if 
 5. This should launch the program in the Command Line.
 6. Enter guesses until you guess the correct answer.
 <br>
+<br>
+<br>
 <b>Editing the Progam</b>
 <p>
 <ol>
