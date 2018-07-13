@@ -8,9 +8,9 @@ For this project, you have the finished code available to download. We will down
 <li>Once the command line is open, we will <a href="https://edu.google.com/openonline/course-builder/docs/1.10/set-up-course-builder/check-for-python.html">check to see if Python is installed on your computer</a>. Type <b>Python</b> and press enter. This will either show you the version you have, or tell you it is not installed. You can install Python <a href="https://www.python.org/downloads/">here</a>. (It's free.)</li>
 <li>Once Python is installed, you can run the program you downloaded using the command line.</li> 
  <br>
- <br>
 <blockquote> python guessinggame.py </blockquote>
 This will look different, depending on where the file is saved. For example, if you save it on your desktop, it would looke like this:
+<br>
 <br>
 <blockquote>python desktop/guessinggame.py</blockquote>
 <li>This should launch the program in the Command Line.
