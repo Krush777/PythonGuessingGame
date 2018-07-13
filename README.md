@@ -38,4 +38,6 @@ This will look different, depending on where the file is saved. For example, if 
 </ol>
 <b>Create a New Progam</b>
 <br>
-Open a new file and create your own program. Use an if and else to give a response based on a user input.
+<ul>
+<li>Open a new file and create your own program. Use an if and else to give a response based on a user input.</li>
+ </ul>
