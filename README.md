@@ -29,9 +29,12 @@ This will look different, depending on where the file is saved. For example, if 
 </p>
 <hr>
 <b>Extra Practice</b>
+<b>Fix a Broken Program</b>
 <ol>
  <li>Download the <a  href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/brokenagechecker.py">Broken Age Checker File</a>.</li> 
  <li>Run it in the Command Line or copy and paste it into an <a href="https://trinket.io/python">online Python tester</a>.</li> 
   <li>Run it once with a number more than 18 and once with a number less than 18.</li> 
  <li>Look at the code form the <a href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/guessinggame.py">Guessing Game</a> and compare. Why is the Age Checker not working?</li> 
 </ol>
+<b>Create a New Progam</b>
+Open a new file and create your own program. Use an if and else to give a response based on a user input.
