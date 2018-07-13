@@ -27,3 +27,11 @@ This will look different, depending on where the file is saved. For example, if 
  <li>Test your changes in the Command Line.</li>
 </ol>
 </p>
+<hr>
+<b>Extra Practice</b>
+<ol>
+ <li>Download the Broken Age Checker File.</li> 
+  <li>Run it in the Command Line or copy and paste it into an online Python tester.</li> 
+  <li>Run it once with a number more than 18 and once with a number less than 18.</li> 
+  <li>Look at the code form the Guessing Game and compare. Why is the Age Checker not working?</li> 
+</ol>
