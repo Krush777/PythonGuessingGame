@@ -13,7 +13,9 @@ This will look different, depending on where the file is saved. For example, if 
 6. Enter guesses until you guess the correct answer.
 <hr>
 <b>Editing the Progam</b>
+<p>
 <ol>
 <li>Open the file in a text editor, such as <a href="https://www.sublimetext.com/">Sublime Text</a>.</li>
  <li>Change the range of numbers to between </li>
 </ol>
+</p>
