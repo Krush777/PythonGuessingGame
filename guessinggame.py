@@ -1,7 +1,7 @@
 import random
 actual = random.randint(1, 99)
 guess = int(input("Guess a number between 1 and 99:"))
-while actual != "guess":
+while actual != guess:
     print
     if guess < actual:
         print ("Your guess is too low!")
