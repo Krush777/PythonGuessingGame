@@ -5,7 +5,9 @@ For this project, you have the finished code available to download. We will down
 <ol>
 <li>Download the file <a href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/guessinggame.py">guessinggame.py</a> to your computer.</li>
 <li>Open the command line on your computer. For Mac Users, this program is called <b>Terminal</b>. For PC users, this program is called <b>Command Prompt</b> and can be found under Accessories. <i><a href="https://www.computerhope.com/jargon/c/commandi.htm">What is the command line?</a></i></li>
-<li>Once the command line is open, we will <a href="https://edu.google.com/openonline/course-builder/docs/1.10/set-up-course-builder/check-for-python.html">check to see if Python is installed on your computer</a>. Type <b>Python</b> and press enter. This will either show you the version you have, or tell you it is not installed. You can install Python <a href="https://www.python.org/downloads/">here</a>. (It's free.)</li>
+<li>Once the command line is open, we will <a href="https://edu.google.com/openonline/course-builder/docs/1.10/set-up-course-builder/check-for-python.html">check to see if Python is installed on your computer</a>. Type <b>Python</b> and press enter. This will either show you the version you have, or tell you it is not installed. You can install Python <a href="https://www.python.org/downloads/">here</a>. (It's free.) </li>
+ <ul><li>To go back to the command line type:</li>
+  <blockquote>exit()</blockquote>
 <li>Once Python is installed, you can run the program you downloaded using the command line.</li> 
  <br>
 <blockquote> python guessinggame.py </blockquote>
