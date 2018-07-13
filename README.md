@@ -11,7 +11,7 @@ For this project, you have the finished code available to download. We will down
 <li>Once Python is installed, you can run the program you downloaded using the command line.</li> 
  <br>
 <blockquote> python guessinggame.py </blockquote>
-This will look different, depending on where the file is saved. For example, if you save it on your desktop, it would looke like this:
+This will look different, depending on where the file is saved. For example, if you save it on your desktop, it would look like this:
 <br>
 <br>
 <blockquote>python desktop/guessinggame.py</blockquote>
