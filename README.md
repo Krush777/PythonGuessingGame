@@ -1,7 +1,7 @@
 # PythonGuessingGame
 For this project, you have the finished code available to download. We will download the Python file and learn how to run the program using the command line on your computer. This requires that Python is installed on your computer.
 
-<b>Running the Program</b>
+<b>Running the Program in the Command Line</b>
 <ol>
 <li>Download the file <a href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/guessinggame.py">guessinggame.py</a> to your computer.</li>
 <li>Open the command line on your computer. For Mac Users, this program is called <b>Terminal</b>. For PC users, this program is called <b>Command Prompt</b> and can be found under Accessories. <i><a href="https://www.computerhope.com/jargon/c/commandi.htm">What is the command line?</a></i></li>
@@ -18,6 +18,18 @@ This will look different, depending on where the file is saved. For example, if 
 <li>This should launch the program in the Command Line.
 <li>Enter guesses until you guess the correct answer.
 </ol>
+<br>
+<b>Running the Program in the Broswer</b>
+<ol>
+ <li>Open an in the browser Python Interpter such as:</li>
+ <ul><li><a href="https://www.codechef.com/ide">Code Chef</a></li>
+  <li><a href="http://pythonfiddle.com/">Python Fiddle</a></li>
+  <li><a href="https://trinket.io/python">Python Trinket</a></li>
+ </ul> 
+ <li>Copy and paste the code into the interpreter.</li>
+ <li>Run the code and check for errors.</li>
+ <li>Fix the errors.</li>
+ </ol>
 <br>
 <b>Editing the Progam</b>
 <p>
