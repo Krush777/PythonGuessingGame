@@ -30,8 +30,8 @@ This will look different, depending on where the file is saved. For example, if 
 <hr>
 <b>Extra Practice</b>
 <ol>
- <li>Download the Broken Age Checker File.</li> 
-  <li>Run it in the Command Line or copy and paste it into an online Python tester.</li> 
+ <li>Download the <a  href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/brokenagechecker.py">Broken Age Checker File</a>.</li> 
+ <li>Run it in the Command Line or copy and paste it into an <a href="https://trinket.io/python">online Python tester</a>.</li> 
   <li>Run it once with a number more than 18 and once with a number less than 18.</li> 
-  <li>Look at the code form the Guessing Game and compare. Why is the Age Checker not working?</li> 
+ <li>Look at the code form the <a href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/guessinggame.py">Guessing Game</a> and compare. Why is the Age Checker not working?</li> 
 </ol>
