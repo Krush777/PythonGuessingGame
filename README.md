@@ -27,7 +27,7 @@ This will look different, depending on where the file is saved. For example, if 
   <li><a href="https://trinket.io/python">Python Trinket</a></li>
  </ul> 
  <li>Copy and paste the code into the interpreter.</li>
- <li>Run the code and check for errors.<i><a href="https://www.dummies.com/programming/python/the-8-most-common-python-programming-errors/">8 Most Common Python Errors</a></i></li>
+ <li>Run the code and check for errors. <i><a href="https://www.dummies.com/programming/python/the-8-most-common-python-programming-errors/">8 Most Common Python Errors</a></i></li>
  <li>Fix the errors.</li>
  </ol>
 <br>
