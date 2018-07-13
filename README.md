@@ -13,7 +13,6 @@ This will look different, depending on where the file is saved. For example, if 
 6. Enter guesses until you guess the correct answer.
 <br>
 <br>
-<br>
 <b>Editing the Progam</b>
 <p>
 <ol>
