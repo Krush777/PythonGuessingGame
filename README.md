@@ -17,7 +17,6 @@ This will look different, depending on where the file is saved. For example, if 
 <li>Enter guesses until you guess the correct answer.
 </ol>
 <br>
-<br>
 <b>Editing the Progam</b>
 <p>
 <ol>
