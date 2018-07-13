@@ -12,7 +12,6 @@ For this project, you have the finished code available to download. We will down
 <blockquote> python guessinggame.py </blockquote>
 This will look different, depending on where the file is saved. For example, if you save it on your desktop, it would looke like this:
 <br>
-<br>
 <blockquote>python desktop/guessinggame.py</blockquote>
 <li>This should launch the program in the Command Line.
 <li>Enter guesses until you guess the correct answer.
