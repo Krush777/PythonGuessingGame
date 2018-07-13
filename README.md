@@ -9,6 +9,8 @@ For this project, you have the finished code available to download. We will down
 <blockquote> python guessinggame.py </blockquote>
 This will look different, depending on where the file is saved. For example, if you save it on your desktop, it would looke like this:
 <blockquote>python desktop/guessinggame.py</blockquote>
-
+5. This should launch the program in the Command Line.
+6. Enter guesses until you guess the correct answer.
+<hr>
 3. Open the file in a text editor, such as <a href="https://www.sublimetext.com/">Sublime Text</a>.
 4. Change the range of numbers to between 
