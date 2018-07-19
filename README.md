@@ -50,6 +50,12 @@ This will look different, depending on where the file is saved. For example, if 
   <li>Run it once with a number more than 18 and once with a number less than 18.</li> 
  <li>Look at the code form the <a href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/guessinggame.py">Guessing Game</a> and compare. Why is the Age Checker not working?</li> 
 </ol>
+<b>Write a Python Poem</b>
+<ol>
+ <li>Download the <a  href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/PythonMadLib.py">Python Mad Lib</a>.</li> 
+ <li>Run it in the Command Line or copy and paste it into an <a href="https://trinket.io/python">online Python tester</a>.</li> 
+  <li>Follow the prompts and see your poem revealed!</li> 
+</ol>
 <b>Create a New Progam</b>
 <br>
 <ul>
