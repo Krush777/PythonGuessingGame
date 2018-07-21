@@ -31,7 +31,7 @@ This will look different, depending on where the file is saved. For example, if 
  <li>Fix the errors. (Don't be afraid to Google.)</li>
  </ol>
 <br>
-<b>Editing the Progam</b>
+<b>Editing the Program</b>
 <p>
 <ol>
 <li>Open the file in a text editor, such as <a href="https://www.sublimetext.com/">Sublime Text</a>.</li>
