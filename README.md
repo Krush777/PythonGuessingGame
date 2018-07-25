@@ -19,7 +19,7 @@ This will look different, depending on where the file is saved. For example, if 
 <li>Enter guesses until you guess the correct answer.
 </ol>
 <br>
-<b>Running the Program in the Broswer</b>
+<b>Running the Program in the Browser</b>
 <ol>
  <li>Open an in the browser Python Interpter such as:</li>
  <ul><li><a href="https://www.codechef.com/ide">Code Chef</a></li>
