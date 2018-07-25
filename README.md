@@ -21,7 +21,7 @@ This will look different, depending on where the file is saved. For example, if 
 <br>
 <b>Running the Program in the Browser</b>
 <ol>
- <li>Open an in the browser Python Interpter such as:</li>
+ <li>Open a browser-based Python Interpter such as:</li>
  <ul><li><a href="https://www.codechef.com/ide">Code Chef</a></li>
   <li><a href="http://pythonfiddle.com/">Python Fiddle</a></li>
   <li><a href="https://trinket.io/python">Python Trinket</a></li>
