@@ -1,4 +1,11 @@
-# PythonGuessingGame
+# Python Practice
+<b>Write a Python Poem</b>
+<ol>
+ <li>Go to the <a href="https://codelab.trinket.io/sites/pythonpoem">online Python tester</a> and write your poem.</li> 
+  <li>Follow the prompts and see your poem revealed!</li> 
+ <li> Go to the <a href="https://trinket.io/python/d61cb18c60">editor</a> to see the code. How does it work?</li>
+</ol>
+<b>Python Guessing Game</b>
 For this project, you have the finished code available to download. We will download the Python file and learn how to run the program using the command line on your computer. This requires that Python is installed on your computer.
 
 <b>Running the Program in the Command Line</b>
@@ -49,12 +56,6 @@ This will look different, depending on where the file is saved. For example, if 
  <li>Run it in the Command Line or copy and paste it into an <a href="https://trinket.io/python">online Python tester</a>.</li> 
   <li>Run it once with a number more than 18 and once with a number less than 18.</li> 
  <li>Look at the code form the <a href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/guessinggame.py">Guessing Game</a> and compare. Why is the Age Checker not working?</li> 
-</ol>
-<b>Write a Python Poem</b>
-<ol>
- <li>Go to the <a href="https://codelab.trinket.io/sites/pythonpoem">online Python tester</a> and write your poem.</li> 
-  <li>Follow the prompts and see your poem revealed!</li> 
- <li> Go to the <a href="https://trinket.io/python/d61cb18c60">editor</a> to see the code. How does it work?</li>
 </ol>
 <b>Create a New Progam</b>
 <br>
