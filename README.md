@@ -1,4 +1,4 @@
-# Python Practice
+# Beginner's Python
 <b>Write a Python Poem</b>
 <ol>
  <li>Go to the <a href="https://codelab.trinket.io/sites/pythonpoem">online Python tester</a> and write your poem.</li> 
@@ -6,7 +6,6 @@
  <li> Go to the <a href="https://trinket.io/python/d61cb18c60">editor</a> to see the code. How does it work?</li>
 </ol>
 <h1>Python Guessing Game</h1>
-<hr>
 For this project, you have the finished code available to download. We will download the Python file and learn how to run the program using the command line on your computer. This requires that Python is installed on your computer.
 
 <b>Running the Program in the Command Line</b>
