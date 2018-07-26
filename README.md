@@ -37,6 +37,7 @@ This will look different, depending on where the file is saved. For example, if 
  <li>Run the code and check for errors. <i><a href="https://www.dummies.com/programming/python/the-8-most-common-python-programming-errors/">8 Most Common Python Errors</a></i></li>
  <li>Fix the errors. (Don't be afraid to Google.)</li>
  </ol>
+ <p>Need help? Go to this <a href="https://trinket.io/python/4fcf78e2e2">editor</a> with the code already loaded</p>
 <br>
 <b>Editing the Program</b>
 <p>
