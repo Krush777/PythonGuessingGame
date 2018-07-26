@@ -52,8 +52,7 @@ This will look different, depending on where the file is saved. For example, if 
 </ol>
 <b>Write a Python Poem</b>
 <ol>
- <li>Download the <a  href="https://github.com/LibraryCodeLab/PythonGuessingGame/blob/master/PythonMadLib.py">Python Mad Lib</a>.</li> 
- <li>Run it in the Command Line or copy and paste it into an <a href="https://trinket.io/python">online Python tester</a>.</li> 
+ <li>Go to the <a href="https://codelab.trinket.io/sites/pythonpoem">online Python tester</a> and run your code.</li> 
   <li>Follow the prompts and see your poem revealed!</li> 
 </ol>
 <b>Create a New Progam</b>
