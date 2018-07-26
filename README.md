@@ -52,8 +52,9 @@ This will look different, depending on where the file is saved. For example, if 
 </ol>
 <b>Write a Python Poem</b>
 <ol>
- <li>Go to the <a href="https://codelab.trinket.io/sites/pythonpoem">online Python tester</a> and run your code.</li> 
+ <li>Go to the <a href="https://codelab.trinket.io/sites/pythonpoem">online Python tester</a> and write your poem.</li> 
   <li>Follow the prompts and see your poem revealed!</li> 
+ <li> Go to the <a href="https://trinket.io/python/d61cb18c60">editor</a> to see the code. How does it work?</li>
 </ol>
 <b>Create a New Progam</b>
 <br>
