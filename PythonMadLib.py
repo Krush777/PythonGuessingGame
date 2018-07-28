@@ -1,3 +1,5 @@
+# this file used to demonstrate how Python takes in user input, stores the data user enters, and prints it out
+# works with Python 2.7.10 
 intro=raw_input("Are you ready to MAD LIB with Python? Type GO, then press ENTER to begin! ")
 adjective1 = raw_input("Tell me an ADJECTIVE. ")
 noun1 = raw_input("Tell me a NOUN. ")
