@@ -1,10 +1,11 @@
-adjective1 = raw_input("Tell me an adjective, and click enter. ")
-noun1 = raw_input("Tell me a noun (plural), and click enter. ")
-noun2 = raw_input("Tell me another noun, and click enter. ")
-adjective2 = raw_input("Tell me an another adjective, and click enter. ")
+intro=raw_input("Are you ready to MAD LIB with Python? Type GO, then press ENTER to begin! ")
+adjective1 = raw_input("Tell me an ADJECTIVE. ")
+noun1 = raw_input("Tell me a NOUN. ")
+noun2 = raw_input("Tell me another NOUN. ")
+adjective2 = raw_input("Tell me an another ADJECTIVE. Bonus: rhymes with the first ADJECTIVE you used. ")
 
-print "\n\nThe best ever written poem!\n"
-print "Roses are " + adjective1
-print noun1 + " are blue"
+print "\n\nYou're a poet (and yet you didn't even know it!)\n"
+print "JavaScript is " + adjective1
+print noun1 + " is too"
 print noun2 + " is " + adjective2
 print "And so are you!"
