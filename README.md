@@ -1,7 +1,7 @@
 # Beginner's Python
 <b>Write a Python Poem</b>
 <ol>
- <li>Go to the <a href="https://codelab.trinket.io/sites/pythonpoem">online Python tester</a> and write your poem.</li> 
+ <li>Go to the <a href="https://codelab.trinket.io/sites/pythonpoem" target="_blank">online Python tester</a> and write your poem.</li> 
   <li>Follow the prompts and see your poem revealed!</li> 
  <li> Go to the <a href="https://trinket.io/python/d61cb18c60">editor</a> to see the code. How does it work?</li>
 </ol>
